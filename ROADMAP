@@ -1,0 +1,75 @@
+# Roadmap
+
+## Phase 0 — UI Prototype
+
+Goal: Fully functional UI without real AI
+
+Features:
+
+- Chat interface
+- Theme system structure
+- Avatar rendering
+- Fake responses (mock)
+
+Contributors needed:
+
+- Android UI developers
+- Designers
+
+---
+
+## Phase 1 — Local AI Integration
+
+Goal: Real local inference
+
+Features:
+
+- llama.cpp Android integration
+- GGUF model loading
+- Token streaming
+- Basic settings
+
+Contributors needed:
+
+- NDK developers
+- llama.cpp integration specialists
+
+---
+
+## Phase 2 — Voice Integration
+
+Features:
+
+- Speech-to-text
+- Text-to-speech
+- Voice selection per theme
+
+---
+
+## Phase 3 — Memory
+
+Features:
+
+- Local conversation memory
+- Memory controls
+- Export/delete memory
+
+---
+
+## Phase 4 — Theme Ecosystem
+
+Features:
+
+- Install/remove themes
+- Theme validation
+- Theme sharing
+
+---
+
+## Phase 5 — Optimization
+
+Features:
+
+- Performance improvements
+- Battery optimizations
+- Device-specific tuning
